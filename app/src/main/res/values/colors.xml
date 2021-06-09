@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4bb75e</color>
+    <color name="colorPrimaryDark">#005803</color>
+    <color name="colorAccent">#008636</color>
+
+
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="error">#C62828</color>
+    <color name="orange">#F24E1E</color>
+    <color name="yellow">#FFC700</color>
+
+    <color name="end">#ff0000</color>
+    <color name="center">#008636</color>
+    <color name="start">#ff0000</color>
+
+</resources>
